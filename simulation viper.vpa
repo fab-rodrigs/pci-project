@@ -1,0 +1,318 @@
+"VIPer Soft Version  2. 2 4"
+"File Name :"
+"D:\IFSC\Eletronica de Potência II\Projeto Final\simulation viper.vpa"
+"Training Mode :"
+0
+"Additional Outputs :"
+0
+"User Defined Primary Inductance :"
+#FALSE#
+"User Defined Core Material :"
+#FALSE#
+"User Defined Core Geometry :"
+#TRUE#
+"Active VIPer Picture :"
+19
+"Output Regulated :"
+1
+"Ambient Temperature :"
+25
+"Leakage Inductance Percentage :"
+.07
+"Window Factor Utilisation :"
+.8
+"Percentage of Power Transmit Loss in Core :"
+.02
+"Secondary Regulation :"
+#TRUE#
+"RC Clamper ? :"
+#TRUE#
+"Minimum Input AC Voltage :"
+176
+"Maximum Input AC Voltage :"
+264
+"C2 Ripple Voltage :"
+20
+"Main Frequency :"
+60
+"Reflected Voltage :"
+80
+"VIPer Switching Frequency :"
+100000
+"Type of VIPer Index:"
+15
+"Type of VIPer :"
+"VIPer53"
+"Gain of Opto-Coupler :"
+1
+"Soft Start Time :"
+.01
+"TL431 Quiescent Current :"
+.001
+"Output  0 Polarity :"
+#TRUE#
+"Output  0 Voltage :"
+12
+"Output  0 Current :"
+2
+"Output  0 Minimum Current :"
+0
+"Output  0 Ripple Voltage First Cell :"
+.3
+"Output  0 Ripple Voltage Second Cell :"
+.05
+"Output  0 Type of Output :"
+10
+"Output  0 Regulated :"
+#TRUE#
+"Output  0 Vreg Drop :"
+0
+"Output  0 Type of Vreg :"
+"StdPos"
+"Output  0 Index :"
+0
+"Output  0 Voltage Before Diode :"
+12.774
+"Output  0 Selected Diode Index:"
+32
+"Output  0 Selected Diode :"
+"BYW4200"
+"Output  0 Active :"
+#TRUE#
+"User Defined Output  0 Diode :"
+#FALSE#
+"Output  1 Polarity :"
+#TRUE#
+"Output  1 Voltage :"
+5
+"Output  1 Current :"
+1
+"Output  1 Minimum Current :"
+0
+"Output  1 Ripple Voltage First Cell :"
+.3
+"Output  1 Ripple Voltage Second Cell :"
+.05
+"Output  1 Type of Output :"
+7
+"Output  1 Regulated :"
+#FALSE#
+"Output  1 Vreg Drop :"
+0
+"Output  1 Type of Vreg :"
+""
+"Output  1 Index :"
+1
+"Output  1 Voltage Before Diode :"
+5.45
+"Output  1 Selected Diode Index:"
+0
+"Output  1 Selected Diode :"
+""
+"Output  1 Active :"
+#FALSE#
+"User Defined Output  1 Diode :"
+#FALSE#
+"Output  2 Polarity :"
+#TRUE#
+"Output  2 Voltage :"
+5
+"Output  2 Current :"
+1
+"Output  2 Minimum Current :"
+0
+"Output  2 Ripple Voltage First Cell :"
+.3
+"Output  2 Ripple Voltage Second Cell :"
+.05
+"Output  2 Type of Output :"
+7
+"Output  2 Regulated :"
+#FALSE#
+"Output  2 Vreg Drop :"
+0
+"Output  2 Type of Vreg :"
+""
+"Output  2 Index :"
+2
+"Output  2 Voltage Before Diode :"
+5.45
+"Output  2 Selected Diode Index:"
+0
+"Output  2 Selected Diode :"
+""
+"Output  2 Active :"
+#FALSE#
+"User Defined Output  2 Diode :"
+#FALSE#
+"Output  3 Polarity :"
+#TRUE#
+"Output  3 Voltage :"
+5
+"Output  3 Current :"
+1
+"Output  3 Minimum Current :"
+0
+"Output  3 Ripple Voltage First Cell :"
+.3
+"Output  3 Ripple Voltage Second Cell :"
+.05
+"Output  3 Type of Output :"
+7
+"Output  3 Regulated :"
+#FALSE#
+"Output  3 Vreg Drop :"
+0
+"Output  3 Type of Vreg :"
+""
+"Output  3 Index :"
+3
+"Output  3 Voltage Before Diode :"
+5.45
+"Output  3 Selected Diode Index:"
+0
+"Output  3 Selected Diode :"
+""
+"Output  3 Active :"
+#FALSE#
+"User Defined Output  3 Diode :"
+#FALSE#
+"Output  4 Polarity :"
+#TRUE#
+"Output  4 Voltage :"
+5
+"Output  4 Current :"
+1
+"Output  4 Minimum Current :"
+0
+"Output  4 Ripple Voltage First Cell :"
+.3
+"Output  4 Ripple Voltage Second Cell :"
+.05
+"Output  4 Type of Output :"
+7
+"Output  4 Regulated :"
+#FALSE#
+"Output  4 Vreg Drop :"
+0
+"Output  4 Type of Vreg :"
+""
+"Output  4 Index :"
+4
+"Output  4 Voltage Before Diode :"
+5.45
+"Output  4 Selected Diode Index:"
+0
+"Output  4 Selected Diode :"
+""
+"Output  4 Active :"
+#FALSE#
+"User Defined Output  4 Diode :"
+#FALSE#
+"Output  5 Polarity :"
+#TRUE#
+"Output  5 Voltage :"
+5
+"Output  5 Current :"
+1
+"Output  5 Minimum Current :"
+0
+"Output  5 Ripple Voltage First Cell :"
+.3
+"Output  5 Ripple Voltage Second Cell :"
+.05
+"Output  5 Type of Output :"
+7
+"Output  5 Regulated :"
+#FALSE#
+"Output  5 Vreg Drop :"
+0
+"Output  5 Type of Vreg :"
+""
+"Output  5 Index :"
+5
+"Output  5 Voltage Before Diode :"
+5.45
+"Output  5 Selected Diode Index:"
+0
+"Output  5 Selected Diode :"
+""
+"Output  5 Active :"
+#FALSE#
+"User Defined Output  5 Diode :"
+#FALSE#
+"Primary Inductance"
+4.885577E-04
+"Transformer Core"
+1
+"Transformer Geometry"
+14
+"Primary Bonding"
+17
+"Transformer Capacitance"
+3E-11
+"Bsat Margin"
+.75
+"Option Fixed Diameter"
+#FALSE#
+"Type of optimisation for winding"
+0
+"Type of Geometry List"
+"E"
+"Flag Power Error"
+#FALSE#
+"Secondary Regulation"
+#TRUE#
+"Project Name"
+""
+"Min DC Input Voltage"
+36
+"Max DC Input Voltage"
+72
+" AC (or DC) input ?"
+#TRUE#
+"Transformer Optimisation Criteria"
+#TRUE#
+"Transformer Max Delta T"
+40
+"VIPer Package Rtj_p"
+15
+"VIPer Package Type"
+1
+"VIPer Pin Temperature"
+35.50077
+"Transformer Parallel Wire"
+10
+"Primary Turns User Define"
+#FALSE#
+"Transformer Primary Turns"
+119
+"Output 0Capacitor Derating"
+2
+"Output 1Capacitor Derating"
+2
+"Output 2Capacitor Derating"
+2
+"Output 3Capacitor Derating"
+2
+"Output 4Capacitor Derating"
+2
+"Output 5Capacitor Derating"
+2
+"Core Type Name"
+"E25/10/6"
+"Core Type"
+"E"
+"Core Lm"
+53.8
+"Core Le"
+49.2
+"Core Ae"
+38.4
+"Core W"
+62
+"Core Ve"
+1890
+"Rtpin_ambiant"
+30
+"End of Record"
