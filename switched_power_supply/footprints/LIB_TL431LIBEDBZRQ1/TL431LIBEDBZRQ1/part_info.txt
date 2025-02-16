@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TL431LIBEDBZRQ1
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2021-07-18 09:34:10
+Downloaded=2025-02-15 23:50:29
+3D=Y

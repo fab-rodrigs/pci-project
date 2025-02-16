@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VJ0603Y222KXBAC31X'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "VJ0603Y222KXBAC31X" (!) = "", "CAPC1608X97N", "Capacitor Chip Non-polarised", "77-V0603Y222KXBAC31X", "https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0603Y222KXBAC31X?qs=%252BRX4mxi9f%2F9eDvJ4%2F3YZsw%3D%3D", "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 2.2nF 100volts X7R 10%", "https://www.mouser.in/datasheet/2/427/vj31xrohsautomlcc-1763818.pdf", "0.97 mm"
+END_PART
+
+END.

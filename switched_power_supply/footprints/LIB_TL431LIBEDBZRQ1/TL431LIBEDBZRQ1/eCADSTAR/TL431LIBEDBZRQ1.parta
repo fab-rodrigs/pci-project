@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_11387754"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-18-09:34:10)
+    (utime 2023-08-02-10:06:50)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "TL431LIBEDBZRQ1")
+)
+
+
+(pinAssign "ECS_11387754"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-18-09:34:10)
+    (utime 2023-08-02-10:06:50)
+    (interface
+        (port "1" (symbPinId 1) (portName "CATHODE") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "REF") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "ANODE") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_11387754")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "TL431LIBEDBZRQ1")
+)
+
+
+(part "TL431LIBEDBZRQ1"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-18-09:34:10)
+    (utime 2023-08-02-10:06:50)
+    (packageRef "TL431LIBEDBZRQ1")
+    (pinAssignRef "ECS_11387754")
+    (interface
+        (port "1" (symbPinId 1) (portName "CATHODE") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "REF") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "ANODE") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "IC")
+    (property "description" "Automotive, adjustable, precision shunt regulator with optimized reference current")
+    (property "Mouser_Part_Number" "595-TL431LIBEDBZRQ1")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL431LIBEDBZRQ1?qs=Cb2nCFKsA8oDEduucTTYNA%3D%3D")
+    (property "Manufacturer_Name" "Texas Instruments")
+    (property "Manufacturer_Part_Number" "TL431LIBEDBZRQ1")
+    (property "Datasheet_Link" "https://www.ti.com/lit/gpn/TL431LI-Q1")
+    (property "compAreaTopHeight" 1.12)
+)
+
+

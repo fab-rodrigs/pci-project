@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EEE_FH2A220L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "EEE-FH2A220L" (!) = "", "EEHZT1E331UP", "Other", "667-EEE-FH2A220L", "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FH2A220L?qs=11PymoJGorK9NediIZXuLw%3D%3D", "Series/Type: FH [HF] (High temp. reflow), Rated voltage (V): 100, Capacitance (F): 22, Leakage current (max.) (A): 22, Category temperature range (C): -55 to 105, Body diameter (mm): 8, Body length (mm): 10.2, Rated ripple current (mA): 130, E.S.R. (max. value) (m): 1300, Endurance (h): 7000", "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ast-ind-166561.pdf", "10.8 mm"
+END_PART
+
+END.

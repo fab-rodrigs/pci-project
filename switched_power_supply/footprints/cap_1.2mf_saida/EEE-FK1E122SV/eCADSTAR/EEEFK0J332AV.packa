@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EEE-FK1E122SV"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-11-10-12:49:26)
+    (mountForm default
+        (footprintRef "EEEFK0J332AV")
+        (spec "System")
+    )
+)

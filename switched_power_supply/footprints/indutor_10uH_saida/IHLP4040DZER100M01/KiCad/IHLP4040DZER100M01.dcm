@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IHLP4040DZER100M01
+D Vishay IHLP4040DZ-01 Series Shielded Wire-wound SMD Inductor with a Metal Composite Core, 10 uH +/-20% Wire-Wound 6.8A Idc
+K
+F https://www.vishay.com/docs/34193/ihlp-4040dz-01.pdf
+$ENDCMP
+#
+#End Doc Library

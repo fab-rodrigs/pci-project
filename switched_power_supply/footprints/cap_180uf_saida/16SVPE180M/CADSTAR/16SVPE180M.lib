@@ -1,0 +1,16 @@
+.16SVPE180M :1 ;Panasonic Aluminium Polymer Capacitor 180uF 16V dc 6.3mm C10 OS-CON Series, Surface Mount Polymer, +/-20% 6.3 x 9.9mm
+"16SVPG330M"
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 16SVPE180M
+~!Mouser Part Number (667-16SVPE180M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/16SVPE180M?qs=OE1iw1LrrPH8IiQtRMzKQA%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (16SVPE180M)
+~!Link Datasheet (http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C179.pdf)
+~!Height (7mm)
+~!3D_Model (16SVPE180M)
+"16SVPE180M"
+1.1!U 2.1!U 

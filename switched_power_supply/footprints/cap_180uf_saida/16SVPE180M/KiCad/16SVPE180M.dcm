@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 16SVPE180M
+D Panasonic Aluminium Polymer Capacitor 180uF 16V dc 6.3mm C10 OS-CON Series, Surface Mount Polymer, +/-20% 6.3 x 9.9mm
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C179.pdf
+$ENDCMP
+#
+#End Doc Library

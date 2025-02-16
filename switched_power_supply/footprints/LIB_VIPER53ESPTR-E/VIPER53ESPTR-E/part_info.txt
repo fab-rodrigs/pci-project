@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=VIPER53ESPTR-E
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=11
+Version=2.1
+Released=2022-09-10 18:14:55
+Downloaded=2025-02-15 23:11:40
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EEE-FH2A220L
+D Series/Type: FH [HF] (High temp. reflow), Rated voltage (V): 100, Capacitance (F): 22, Leakage current (max.) (A): 22, Category temperature range (C): -55 to 105, Body diameter (mm): 8, Body length (mm): 10.2, Rated ripple current (mA): 130, E.S.R. (max. value) (m): 1300, Endurance (h): 7000
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ast-ind-166561.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VIPER53ESPTR-E
+D Fixed frequency off line converter
+K
+F https://www.st.com/resource/en/datasheet/viper53e-e.pdf
+$ENDCMP
+#
+#End Doc Library

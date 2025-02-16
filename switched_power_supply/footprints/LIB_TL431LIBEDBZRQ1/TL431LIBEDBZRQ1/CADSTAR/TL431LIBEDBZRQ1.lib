@@ -1,0 +1,16 @@
+.TL431LIBEDBZRQ1 :1 ;Automotive, adjustable, precision shunt regulator with optimized reference current
+SOT95P237X112-3N
+*STM IC
+*NGS
+*PLB 1="CATHODE" 2="REF" 3="ANODE"
+*MXP 3
+*DFN TL431LIBEDBZRQ1
+~!Mouser Part Number (595-TL431LIBEDBZRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL431LIBEDBZRQ1?qs=Cb2nCFKsA8oDEduucTTYNA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TL431LIBEDBZRQ1)
+~!Link Datasheet (https://www.ti.com/lit/gpn/TL431LI-Q1)
+~!Height (1.12mm)
+~!3D_Model (TL431LIBEDBZRQ1)
+TL431LIBEDBZRQ1
+1.1!U 2.1!U 3.1!U 

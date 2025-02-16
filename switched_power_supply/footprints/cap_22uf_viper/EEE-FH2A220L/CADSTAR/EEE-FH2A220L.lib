@@ -1,0 +1,16 @@
+.EEE-FH2A220L :1 ;Series/Type: FH [HF] (High temp. reflow), Rated voltage (V): 100, Capacitance (F): 22, Leakage current (max.) (A): 22, Category temperature range (C): -55 to 105, Body diameter (mm): 8, Body length (mm): 10.2, Rated ripple current (mA): 130, E.S.R. (max. value) (m): 1300, Endurance (h): 7000
+EEHZT1E331UP
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN EEE-FH2A220L
+~!Mouser Part Number (667-EEE-FH2A220L)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FH2A220L?qs=11PymoJGorK9NediIZXuLw%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EEE-FH2A220L)
+~!Link Datasheet (https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ast-ind-166561.pdf)
+~!Height (10.8mm)
+~!3D_Model (EEE-FH2A220L)
+EEE-FH2A220L
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=VJ1206Y683JXBAC
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2023-03-07 11:04:07
+Downloaded=2025-02-16 00:15:57
+3D=Y

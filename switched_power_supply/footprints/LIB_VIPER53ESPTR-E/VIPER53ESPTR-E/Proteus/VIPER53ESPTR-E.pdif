@@ -1,0 +1,156 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "VIPER53ESPTR-E"
+   (description "Fixed frequency off line converter")
+   (family "ANA")
+   (package "SOIC127P1410X375-11N")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/viper53e-e.pdf")
+   (attribute "Geometry.Height" "3.75mm")
+   (attribute "Mouser Part Number" "511-VIPER53ESPTR-E")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VIPER53ESPTR-E?qs=iRhCjdSJZe521KUeAZZD8w%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "VIPER53ESPTR-E")
+   (gate
+    (symbol "VIPER53ESPTR-E")
+    (pin "NC_1" 1 PS)
+    (pin "NC_2" 2 PS)
+    (pin "NC_3" 3 PS)
+    (pin "VDD" 4 PS)
+    (pin "TOVL" 5 PS)
+    (pin "DRAIN" 11 PS)
+    (pin "SOURCE" 10 PS)
+    (pin "NC_5" 9 PS)
+    (pin "NC_4" 8 PS)
+    (pin "OSC" 7 PS)
+    (pin "COMP" 6 PS)
+   )
+  )
+  (symbol "VIPER53ESPTR-E"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -900) (pt 200 -900) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 -1100) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOIC127P1410X375-11N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -7.825 4.925)
+      (pt 7.825 4.925)
+      (pt 7.825 -4.925)
+      (pt -7.825 -4.925)
+      (pt -7.825 4.925))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.7 3.75)
+      (pt 4.7 3.75)
+      (pt 4.7 -3.75)
+      (pt -4.7 -3.75)
+      (pt -4.7 3.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -4.7 2.48)
+      (pt -3.43 3.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -7.575 3.265)
+      (pt -4.925 3.265))))
+   (leg 1 (pt -6.25 2.54) (padstack 0))
+   (leg 2 (pt -6.25 1.27) (padstack 0))
+   (leg 3 (pt -6.25 0) (padstack 0))
+   (leg 4 (pt -6.25 -1.27) (padstack 0))
+   (leg 5 (pt -6.25 -2.54) (padstack 0))
+   (leg 6 (pt 6.25 -2.54) (padstack 0))
+   (leg 7 (pt 6.25 -1.27) (padstack 0))
+   (leg 8 (pt 6.25 0) (padstack 0))
+   (leg 9 (pt 6.25 1.27) (padstack 0))
+   (leg 10 (pt 6.25 2.54) (padstack 0))
+   (leg 11 (pt 0 0) (padstack 11))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.75 2.65 0 0 0))
+   )
+   (padstack 11
+    (plated false)
+    (pad (layer TCOP) (rectf 7.6 9.6 0 0 90))
+   )
+   (model "VIPER53ESPTR-E.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

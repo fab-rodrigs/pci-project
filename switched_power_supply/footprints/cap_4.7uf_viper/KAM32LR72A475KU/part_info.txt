@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KAM32LR72A475KU
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.2
+Released=2024-08-14 03:33:37
+Downloaded=2025-02-16 00:11:14
+3D=Y

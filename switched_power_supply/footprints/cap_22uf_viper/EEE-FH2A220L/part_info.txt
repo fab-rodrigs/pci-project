@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEE-FH2A220L
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=2
+Version=2.3
+Released=2023-07-10 21:16:35
+Downloaded=2025-02-15 22:56:02
+3D=Y

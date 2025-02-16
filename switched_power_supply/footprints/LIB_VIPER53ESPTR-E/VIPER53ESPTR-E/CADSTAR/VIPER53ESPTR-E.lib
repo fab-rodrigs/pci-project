@@ -1,0 +1,16 @@
+.VIPER53ESPTR-E :1 ;Fixed frequency off line converter
+SOIC127P1410X375-11N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="NC_2" 3="NC_3" 4="VDD" 5="TOVL" 6="COMP" 7="OSC" 8="NC_4" 9="NC_5" 10="SOURCE" 11="DRAIN"
+*MXP 11
+*DFN VIPER53ESPTR-E
+~!Mouser Part Number (511-VIPER53ESPTR-E)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VIPER53ESPTR-E?qs=iRhCjdSJZe521KUeAZZD8w%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (VIPER53ESPTR-E)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/viper53e-e.pdf)
+~!Height (3.75mm)
+~!3D_Model (VIPER53ESPTR-E)
+VIPER53ESPTR-E
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 11.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

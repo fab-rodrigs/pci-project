@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=IHLP4040DZER100M01
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=1.1
+Released=2018-08-02 15:08:27
+Downloaded=2025-02-16 00:27:15
+3D=Y

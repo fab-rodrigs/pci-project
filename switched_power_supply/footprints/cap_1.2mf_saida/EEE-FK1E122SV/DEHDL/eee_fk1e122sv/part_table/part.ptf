@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EEE_FK1E122SV'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "EEE-FK1E122SV" (!) = "", "EEEFK0J332AV", "Other", "667-EEE-FK1E122SV", "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FK1E122SV?qs=BZBei1rCqCBRZbaWz387NA%3D%3D", "Aluminium Electroyltic Capacitor, Radial, Vibration-Proof", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1247.pdf", "14.3 mm"
+END_PART
+
+END.

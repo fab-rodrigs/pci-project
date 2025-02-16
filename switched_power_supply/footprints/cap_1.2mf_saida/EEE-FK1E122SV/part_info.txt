@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEE-FK1E122SV
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=6
+Version=5.2
+Released=2021-09-29 09:43:31
+Downloaded=2025-02-16 00:24:06
+3D=Y
