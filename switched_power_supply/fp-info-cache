@@ -1,4 +1,4 @@
-24630584325488470
+24632324060793332
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99280,6 +99280,13 @@ Integrated Circuit
 0
 3
 3
+pci
+TRZ 25.010.2
+Transformer, Transformator, ETD29, 13 Pin, Horizontal, Myrra-74040,
+Transformer Transformator ETD29 13 Pin Horizontal Myrra-74040 
+0
+10
+10
 pci
 TerminalBlock_bornier-2_P5.08mm
 simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2

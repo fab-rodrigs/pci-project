@@ -8223,7 +8223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Transformer_SMD:Transformer_Wuerth_750315371"
+		(property "Footprint" "pci:TRZ 25.010.2"
 			(at 165.354 108.458 0)
 			(effects
 				(font
