@@ -1116,23 +1116,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
+			(property "Reference" "D4"
+				(at -2.032 2.286 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "RFN4RSM2S"
+				(at -5.588 -4.572 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_TO_SOT_SMD:TO-277A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1245,7 +1247,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7505,7 +7507,7 @@
 		(pin "1"
 			(uuid "c35df040-54fa-4844-bec9-01d7a1ed8d5c")
 		)
-		(pin "2"
+		(pin "3"
 			(uuid "720241ea-91d6-4130-af94-5a3090d0e604")
 		)
 		(instances
