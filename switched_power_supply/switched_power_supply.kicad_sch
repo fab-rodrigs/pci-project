@@ -1682,23 +1682,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
+			(property "Reference" "L1"
+				(at -17.526 0.762 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "SC-03-30J"
+				(at -17.526 -11.176 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Inductor_THT:L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1856,7 +1858,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 0 180)
+					(at -24.892 -5.08 0)
 					(length 7.62)
 					(name "1"
 						(effects
@@ -1874,7 +1876,7 @@
 					)
 				)
 				(pin passive line
-					(at -24.892 0 0)
+					(at 0 -5.08 180)
 					(length 7.62)
 					(name "2"
 						(effects
@@ -1892,7 +1894,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -5.08 180)
+					(at -24.892 0 0)
 					(length 7.62)
 					(name "3"
 						(effects
@@ -1910,7 +1912,7 @@
 					)
 				)
 				(pin passive line
-					(at -24.892 -5.08 0)
+					(at 0 0 180)
 					(length 7.62)
 					(name "4"
 						(effects
@@ -9002,7 +9004,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "Indutor EMI"
+		(property "Value" "SC-03-30J"
 			(at 69.596 55.626 0)
 			(effects
 				(font
